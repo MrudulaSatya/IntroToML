@@ -8,7 +8,7 @@ Software 2.0.
 
 Software 1.0 : As the “FizzBuzz” problem is a basic arithmetic problem, it was implemented using the if then
 else statements and basic arithmetic like modulo in Python. For example, we want the output as
-“Fizz” if the input integer is divisible by 3 and so on.
+“Fizz” if the input integer is divisible by 3 and so on.                                                                                 
 Software 2.0: We used Neural Networks (NN) machine learning algorithm to solve the “FizzBuzz” problem.
 Tensorflow library in Python was used in order to implement this algorithm. We give the input
 data (set of integers) and the output we want (goal [set of labels]) to the neural network and let
