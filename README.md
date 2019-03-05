@@ -4,8 +4,7 @@ All the projects I completed in the course Introduction to Machine Learning
 Project 1: 
 
 The task is to implement a program called “FizzBuzz” in two different ways – Software 1.0 and
-Software 2.0.
-
+Software 2.0.                                                                                                                           
 Software 1.0 : As the “FizzBuzz” problem is a basic arithmetic problem, it was implemented using the if then
 else statements and basic arithmetic like modulo in Python. For example, we want the output as
 “Fizz” if the input integer is divisible by 3 and so on.                                                                                 
